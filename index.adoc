@@ -1,0 +1,6 @@
+# bookfull 説明書
+
+これは、link:https://play.google.com/store/apps/details?id=com.club.spmf.bookfull[確定申告補助アプリ-bookfull] の説明書です。 +
+
+- link:csv-import.adoc[CSV インポート]
+- link:external-link.adoc[外部連携設定]
