@@ -5,3 +5,4 @@
 - link:csv-import.adoc[CSV インポート]
 - link:external-link.adoc[外部連携設定]
 - link:settlement.adoc[決算]
+- link:regularly-journal.adoc[固定仕訳（定期仕訳）]
